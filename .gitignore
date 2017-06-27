@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+app/dest/js/
+app/dest/css/
+app/lib/js/
+app/lib/css/
